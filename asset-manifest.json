@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/medical-analysis/static/css/main.f5bb5cdd.css",
-    "main.js": "/medical-analysis/static/js/main.51e8cafc.js",
+    "main.js": "/medical-analysis/static/js/main.6c54cace.js",
     "index.html": "/medical-analysis/index.html",
     "main.f5bb5cdd.css.map": "/medical-analysis/static/css/main.f5bb5cdd.css.map",
-    "main.51e8cafc.js.map": "/medical-analysis/static/js/main.51e8cafc.js.map"
+    "main.6c54cace.js.map": "/medical-analysis/static/js/main.6c54cace.js.map"
   },
   "entrypoints": [
     "static/css/main.f5bb5cdd.css",
-    "static/js/main.51e8cafc.js"
+    "static/js/main.6c54cace.js"
   ]
 }
